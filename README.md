@@ -1,2 +1,2 @@
 # parsingAPI
-parsing API app
+parsing Cat Facts API app
