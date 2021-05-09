@@ -1,0 +1,44 @@
+body{
+    box-sizing: border-box;
+    font: inherit;
+    display: block;
+}
+article{
+    box-sizing: border-box;
+    font: inherit;
+}
+li,article,div{
+    background: transparent;
+    border: 0;
+    font-size: 100%;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+    -webkit-font-smoothing: antialiased;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    list-style-type: none;
+    left: 300px;
+}
+ul {
+    list-style: none;
+}
+header h1{
+    text-align: center;
+}
+#dynamic{
+    margin-bottom: 50px;
+    background-color: azure;
+    border-bottom: 1px cadetblue solid;
+}
+#static{
+    margin-top: 30px;
+    background-color: aliceblue;
+    border-bottom: 1px black solid;
+}
+a{
+    color: steelblue;
+}
