@@ -1,4 +1,4 @@
-# parsing Cat Facts API website
+# Parsing Cat Facts API website
 This is website which presents you some cat facts.
 Every time you reload the page the `Dynamic Fact` updates.
 
